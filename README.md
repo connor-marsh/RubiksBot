@@ -1,6 +1,8 @@
 # RubiksBot
 
-![demo](/media/quickSolve.MOV)
+
+![demo](/media/quickSolve.MOV)  
+If this embedded video isn't working, instead check out: [Demo on Youtube](https://www.youtube.com/shorts/OHwuC508IQA)
 
 Repository for code, schematics, and designs for my Rubik's cube solving robot. This project was made as my final project for the University of Pittsburgh Swanson School of Engineering, Electrical and Computer Engineering class: Junior Design Fundamentals. All purchases made for this project were funded by the Electrical and Computer Engineering department so huge thanks to them and to Dr. Dickerson for creating and teaching this class. This is the third and final project of the class, giving me only a total of 4 weeks to make this project (We technically had 6 weeks but the first two I was too busy with other projects due earlier to start this). The extremely tight 4 week deadline for this project was the main driving factor in many of my design decisions.
 
